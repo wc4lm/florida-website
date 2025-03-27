@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to Florida without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="ultimate discord security bot."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@Florida" />
@@ -26,7 +26,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="How about listening to Florida without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="ultimate discord security bot."
           />
           <meta property="og:image" content="/img/florida.png" />
           <meta property="og:image:alt" content="Florida" />
