@@ -13,7 +13,7 @@ export default function Index() {
           Florida
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       hey buddy meet florida a multipurpose discord bot for you. 
+       hey buddy meet florida a multipurpose security discord bot for your server. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
