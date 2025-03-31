@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="Florida" />
           <link
             rel="icon"
-            href="/img/florida.png"
+            href="/img/florida-2.png"
             type="image/x-icon"
           />
           <meta
