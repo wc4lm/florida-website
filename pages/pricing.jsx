@@ -10,7 +10,7 @@ export default function Pricing() {
                 <div className="bg-neutral-900/80 p-6 rounded-xl border border-neutral-700">
                     <h2 className="text-2xl font-bold">🛡 Sentinel</h2>
                     <p className="text-gray-400">1 Server</p>
-                    <p className="text-xl font-semibold text-amber-400 mt-2">₹255.03 / $2.99 <span className="text-gray-400">/month</span></p>
+                    <p className="text-xl font-semibold text-amber-400 mt-2">₹255.03 | $2.99 <span className="text-gray-400">/month</span></p>
                     <p className="text-gray-400 mt-1">Essential protection for your server</p>
                     <ul className="mt-4 space-y-2 text-gray-300">
                         <li>✔ Unlimited Custom Limits</li>
@@ -32,7 +32,7 @@ export default function Pricing() {
                     <div className="absolute top-2 right-2 bg-white text-black text-xs px-2 py-1 rounded-md">Most Popular</div>
                     <h2 className="text-2xl font-bold">👑 Guardian</h2>
                     <p className="text-gray-400">5 Servers</p>
-                    <p className="text-xl font-semibold text-amber-400 mt-2">₹596.26 / $6.99 <span className="text-gray-400">/month</span></p>
+                    <p className="text-xl font-semibold text-amber-400 mt-2">₹596.26 | $6.99 <span className="text-gray-400">/month</span></p>
                     <p className="text-gray-400 mt-1">Advanced security for multiple servers</p>
                     <ul className="mt-4 space-y-2 text-gray-300">
                         <li>✔ Unlimited Custom Limits</li>
@@ -54,7 +54,7 @@ export default function Pricing() {
                     <div className="absolute top-2 right-2 bg-blue-500 text-xs px-2 py-1 rounded-md">Ultimate Protection</div>
                     <h2 className="text-2xl font-bold">🤖 Custom Bot</h2>
                     <p className="text-gray-400">∞ Servers</p>
-                    <p className="text-xl font-semibold text-amber-400 mt-2">₹853.02 / $10.00 <span className="text-gray-400">/month</span></p>
+                    <p className="text-xl font-semibold text-amber-400 mt-2">₹853.02 | $10.00 <span className="text-gray-400">/month</span></p>
                     <p className="text-gray-400 mt-1">Your own dedicated security solution</p>
                     <ul className="mt-4 space-y-2 text-gray-300">
                         <li>✔ Dedicated Security Bot</li>
